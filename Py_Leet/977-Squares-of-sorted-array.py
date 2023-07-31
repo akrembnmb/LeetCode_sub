@@ -10,3 +10,6 @@ class Solution:
                 res.append(nums[r]*nums[r])
                 r-=1
         return res[::-1]
+
+"" Time complexity : O(n)
+Memory complexity : O(n)"""
