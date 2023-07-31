@@ -12,4 +12,4 @@ class Solution:
         return res[::-1]
 
 "" Time complexity : O(n)
-Memory complexity : O(n)"""
+   Memory complexity : O(n) ""
